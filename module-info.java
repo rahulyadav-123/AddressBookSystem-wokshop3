@@ -1,0 +1,2 @@
+module com.labz.addressbook {
+}
